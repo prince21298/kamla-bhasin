@@ -18,7 +18,7 @@ exports.deployment = async (start) => {
     });
 
 
-    await server.initialize();
+    await server.initialize();  
 
     if (!start) {
         return server;

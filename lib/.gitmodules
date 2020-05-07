@@ -1,0 +1,3 @@
+[submodule "config"]
+	path = config
+	url = git@github.com:prince21298/medhavi.git
